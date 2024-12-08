@@ -1,4 +1,5 @@
 # Web Programming 실습 코드 모음
+
 * 1주차
   * 기본 HTML 문서 작성
   * !, div, ol, ul, li
@@ -42,9 +43,6 @@
   * practice 9-8.html
   * practice 9-9.html
   * practice 9-10.html
-  * wd
-  * wd
-  * dwd
 * 7주차
 * 9주차
 * 10주차
