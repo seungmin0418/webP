@@ -62,6 +62,10 @@
   * practice 13-9.html ex)13-9 (워커 태스크를 이용해서 합 구하기)
   * practice 13-10.html ex)13-10 (워커 태스크를 이용해서 타이머 만들기)
 * 11주차
+  * t1.js, t2.js (객체 복사 연습)
+  * backtick.js, t.html (백틱을 이용한 포맷팅 연습)
+  * for.js, for2.js (For of, forEach() 함수 연습)
+  * hoist.js (호이스팅 연습)
 * 12주차
 * 13주차
 * 14주차
