@@ -58,6 +58,9 @@
   * practice 12-4-store.html, practice 12-4-view.html 실습문제 12-4 (로컬 스토리지에 저장 및 값 불러오기)
   * practice 12-5-form.html, practice 12-5-view.html 실습문제 12-5 (도시와 음식 선택 후 로컬 스토리지의 값 불러오기)
 * 10주차
+  * practice 13-6.js, practice 13-6.html 실습문제 13-6 (워커 태스크를 이용해서 곱셈을 수행하고 결과를 돌려주기)
+  * practice 13-9.html ex)13-9 (워커 태스크를 이용해서 합 구하기)
+  * practice 13-10.html ex)13-10 (워커 태스크를 이용해서 타이머 만들기)
 * 11주차
 * 12주차
 * 13주차
