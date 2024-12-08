@@ -3,7 +3,7 @@
 * 1주차
   * 기본 HTML 문서 작성
   * !, div, ol, ul, li
-  * week1.html: <h1>, <hr>, <ol>, <ul> 등의 기본 태그 사용
+  * week1.html: \<h1>, <hr>, <ol>, <ul>\ 등의 기본 태그 사용
   
 * 2주차
   * a 태그(hyperlink)
